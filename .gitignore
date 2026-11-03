@@ -1,0 +1,11 @@
+.DS_Store
+.AppleDouble/
+Thumbs.db
+desktop.ini
+*.log
+LightHub-*.dmg
+LightHub-*.pkg
+LightHub-*.zip
+*.app/
+*.xcarchive/
+*.dSYM/
